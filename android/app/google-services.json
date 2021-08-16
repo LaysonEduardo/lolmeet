@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481047788452",
+    "project_id": "lolmeet",
+    "storage_bucket": "lolmeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481047788452:android:f49ca504123fe49de91f31",
+        "android_client_info": {
+          "package_name": "com.layson.lolmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481047788452-3208qo7lummuo8rcpeh8ktvb6hkplaq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIjFGL8HiAgQbWiFZVA1DCtyCdKm_tnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481047788452-3208qo7lummuo8rcpeh8ktvb6hkplaq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
